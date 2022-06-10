@@ -1,7 +1,6 @@
 .bg-navy {
     background-color: #2C3E50;
     color: white;
-    height: 100px;
 }
 
 .cyan {
@@ -21,7 +20,7 @@ img {
     width: 100%
 }
 
-footer {
+.footer-top {
     background-color: #3A546D;
     color: white;
 }
@@ -29,7 +28,6 @@ footer {
 .footer-bottom {
     background-color: #2C3E50;
     color: white;
-    height: 100px;
 }
 
 .bar {
