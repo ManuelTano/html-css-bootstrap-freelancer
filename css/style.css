@@ -1,6 +1,5 @@
 .bg-navy {
     background-color: #2C3E50;
-    color: white;
 }
 
 .cyan {
@@ -32,5 +31,10 @@ img {
 
 .bar {
     height: 5px;
+    width: 20%;
+}
+
+.fa-star {
+    font-size: 1.8rem;
 }
 
